@@ -1,0 +1,27 @@
+{
+  "item": {
+    "id": "com.personal.youngdrug.lyrics",
+    "name": "回春丹词簿",
+    "description": "回春丹乐队专属歌词查阅工具，按专辑分类收录乐队全部歌曲歌词，选择专辑与曲目即可快速查看完整歌词，方便手环随身查阅跟唱",
+    "preview": [],
+    "icon": "icon.png",
+    "cover": "file_00000000498c71fdb37e5ac353978e93.png",
+    "source_url": "https://github.com/BillWGong/com.personal.youngdrug.lyrics_AstroBox_Release",
+    "author": [
+      {
+        "name": "BillWGong",
+        "author_url": "https://github.com/billwgong"
+      }
+    ]
+  },
+  "downloads": {
+    "n67": {
+      "version": "1.0.0",
+      "file_name": "com.personal.youngdrug.lyrics.debug.1.0.3.rpk"
+    },
+    "p67": {
+      "version": "1.0.0",
+      "file_name": "com.personal.youngdrug.lyrics.debug.1.0.3.rpk"
+    }
+  }
+}
